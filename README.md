@@ -12,9 +12,7 @@
 </div><br/><br/>
 
 
-![Gabriel Rosa GitHub stats](https://github-readme-stats.vercel.app/api?username=steigerosa&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steigerosa&layout=compact)](https://github.com/steigerosa/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=steigerosa&show_icons=true&theme=radical"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steigerosa&layout=compact&theme=radical"/>
 
 
 
