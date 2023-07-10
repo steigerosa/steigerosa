@@ -12,7 +12,7 @@
 </div><br/><br/>
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=steigerosa&show_icons=true&theme=radical"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steigerosa&layout=compact&theme=radical"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=steigerosa&show_icons=true&theme=radical"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steigerosa&layout=compact&theme=radical"/>
 
 
 
