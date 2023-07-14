@@ -2,7 +2,7 @@
 - 2º semestre em análise e desenvolvimento de sistemas
 - Desenvolvedor Back End
 - FATEC SENAI 
-- Porto Alegre, Rs<br/>
+- Porto Alegre / Novo Hamburgo, Rs<br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rosa-b8463526b/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_gabriels06?igshid=MzNINGNkZWQ4Mg==) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/GSR_1999)
 
