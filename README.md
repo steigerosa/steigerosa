@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Gabriel Rosa 🫡
 - 2º semestre em análise e desenvolvimento de sistemas
-- Desenvolvedor Back End
+- Futuro Desenvolvedor Back End
 - FATEC SENAI 
 - Porto Alegre, Rs<br/>
 
