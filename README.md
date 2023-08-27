@@ -8,11 +8,10 @@
 
 ### Tecnologias em desenvolvimento... 👨‍💻
 <div style="display: inline_block">
-<img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div><br/><br/>
+<img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img align="center" alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/><br/><br/> 
 
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=steigerosa&show_icons=true&theme=radical"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steigerosa&layout=compact&theme=radical"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=steigerosa&show_icons=true&theme=radical"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steigerosa&layout=compact&theme=radical"/> <br>
 
 
 
